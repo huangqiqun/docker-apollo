@@ -1,0 +1,57 @@
+version: '3'
+services:
+  apollo-configservice-dev:
+    hostname: apollo-configservice-dev
+    container_name: apollo-configservice-dev
+    build: apollo/apollo-configservice/src/main/docker/
+    image: apollo-configservice:1.3.0
+    volumes:
+      - "./log/100003171:/opt/logs/100003171"
+    ports:
+      - "8080:8080"
+    networks:
+      - microservice-net
+      - compose_database-net
+    external_links:
+      - mycat
+
+  apollo-adminservice-dev:
+    hostname: apollo-adminservice-dev
+    container_name: apollo-adminservice-dev
+    build: apollo/apollo-adminservice/src/main/docker/
+    image: apollo-adminservice:1.3.0
+    volumes:
+      - "./log/100003172:/opt/logs/100003172"
+    ports:
+      - "8090:8090"
+    depends_on:
+      - apollo-configservice-dev
+    networks:
+      - microservice-net
+      - compose_database-net
+    external_links:
+      - mycat
+
+  apollo-portal:
+    hostname: apollo-portal
+    container_name: apollo-portal
+    build: apollo/apollo-portal/src/main/docker/
+    image: apollo-portal:1.3.0
+    volumes:
+      - "./log/100003173:/opt/logs/100003173"
+    ports:
+      - "8070:8070"
+    depends_on:
+      - apollo-configservice-dev
+      - apollo-adminservice-dev
+    networks:
+      - microservice-net
+      - compose_database-net
+    external_links:
+      - mycat
+
+networks:
+  microservice-net:
+    driver: bridge
+  compose_database-net:
+    external: true

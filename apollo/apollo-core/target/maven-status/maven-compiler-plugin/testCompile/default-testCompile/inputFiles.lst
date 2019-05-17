@@ -1,0 +1,14 @@
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/foundation/internals/provider/DefaultServerProviderTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/tracer/internals/DefaultMessageProducerManagerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/core/enums/EnvUtilsTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/tracer/internals/MockMessageProducerManager.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/core/MetaDomainTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/tracer/TracerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/foundation/internals/ServiceBootstrapTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/tracer/internals/NullMessageProducerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/foundation/FoundationTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/core/utils/NetUtilTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/tracer/internals/NullMessageProducerManagerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/BaseIntegrationTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProviderTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-core/src/test/java/com/ctrip/framework/apollo/core/internals/LegacyMetaServerProviderTest.java

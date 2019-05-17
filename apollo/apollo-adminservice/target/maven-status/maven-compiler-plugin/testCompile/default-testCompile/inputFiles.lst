@@ -1,0 +1,15 @@
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/aop/NamespaceUnlockAspectTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/ControllerExceptionTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/AppControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/AbstractControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/aop/NamespaceLockTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/InstanceConfigControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/ItemSetControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/ReleaseControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/AdminServiceTestConfiguration.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/ClusterControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/ControllerIntegrationExceptionTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/LocalAdminServiceApplication.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/AppNamespaceControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/NamespaceControllerTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-adminservice/src/test/java/com/ctrip/framework/apollo/adminservice/controller/TestWebSecurityConfig.java

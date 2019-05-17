@@ -1,0 +1,6 @@
+com/ctrip/framework/apollo/openapi/client/ApolloOpenApiClientTest.class
+com/ctrip/framework/apollo/openapi/client/service/AbstractOpenApiServiceTest.class
+com/ctrip/framework/apollo/openapi/client/service/NamespaceOpenApiServiceTest.class
+com/ctrip/framework/apollo/openapi/client/service/ReleaseOpenApiServiceTest.class
+com/ctrip/framework/apollo/openapi/client/service/ItemOpenApiServiceTest.class
+com/ctrip/framework/apollo/openapi/client/service/AppOpenApiServiceTest.class

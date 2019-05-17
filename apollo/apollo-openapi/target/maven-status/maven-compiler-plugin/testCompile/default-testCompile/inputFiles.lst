@@ -1,0 +1,6 @@
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/service/AbstractOpenApiServiceTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/service/AppOpenApiServiceTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/ApolloOpenApiClientTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/service/ItemOpenApiServiceTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/service/ReleaseOpenApiServiceTest.java
+/home/huangqiqun/IdeaProjects/docker-apollo/apollo/apollo-openapi/src/test/java/com/ctrip/framework/apollo/openapi/client/service/NamespaceOpenApiServiceTest.java
