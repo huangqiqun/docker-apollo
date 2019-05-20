@@ -10,7 +10,7 @@ services:
     ports:
       - "8080:8080"
     networks:
-      - microservice-net
+      - apollo-network
       - compose_database-net
     external_links:
       - mycat
@@ -27,7 +27,7 @@ services:
     depends_on:
       - apollo-configservice-dev
     networks:
-      - microservice-net
+      - apollo-network
       - compose_database-net
     external_links:
       - mycat
@@ -45,13 +45,13 @@ services:
       - apollo-configservice-dev
       - apollo-adminservice-dev
     networks:
-      - microservice-net
+      - apollo-network
       - compose_database-net
     external_links:
       - mycat
 
 networks:
-  microservice-net:
-    driver: bridge
+  apollo-network:
+    external: true
   compose_database-net:
     external: true
